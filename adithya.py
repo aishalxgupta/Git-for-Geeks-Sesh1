@@ -1,0 +1,1 @@
+print("My name - Adithya Kumar Pandey \n Roll Number - B22185 \n Branch - Electrical Engineering \n Fun Fact - I am interested in Computers but did not learn python enough till now to complete my IC152 Assignment.")
