@@ -1,4 +1,4 @@
 class garv{
   public static void main(String args[])
-    syso("Romantic Chess player the GarvGB2299")
+    System.out.println("Ambitious mechanical engineer grinding to become a self made Billionaire a future Unicorn Founder and Chess lover ;)")
 }
